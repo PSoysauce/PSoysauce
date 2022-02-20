@@ -1,7 +1,7 @@
 ### Hi there 👋
-🔭 I’m currently working at USAA as a Software Engineer
+I’m currently working at USAA as a Software Engineer working with Salesforce LWC & DataStage. 
 
-🌱 I’m currently learning Salesforce LWC & ETL Datastage. Outside work I'm working on Python & React
+Outside work I'm working on Python & React
 
 Languages: Java, C++, C, Python, MIPS	, R  
 
